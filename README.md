@@ -3,7 +3,7 @@
 
 - ⚙️ I’m currently learning **React**
 
-- 🛠 All of my projects are available at [https://github.com/samuelhoward1](https://github.com/samuelhoward1)
+- 🛠 All of my projects are available at https://troopl.com/samuelhoward
 
 - 📫 How to reach me **samuel.howard34@gmail.com**
 
